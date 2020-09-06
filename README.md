@@ -6,5 +6,5 @@ Always eager to learn and adapt to new technology!
 You can reach out to me on [LinkedIn](https://linkedin.com/in/rayan-dasoriya) and view my portfolio [here](https://rayandasoriya.com).
 
 🗒 Some of my blog posts are available here:
-* [Kubernetes Monitoring with Prometheus](https://dev.to/rayandasoriya/kubernetes-monitoring-with-prometheus-2l7k)
+* [Kubernetes monitoring with Prometheus](https://dev.to/rayandasoriya/kubernetes-monitoring-with-prometheus-2l7k)
 * [Serverless error-handling pipeline using Redis](https://dev.to/rayandasoriya/serverless-error-handling-pipeline-using-redis-54em)
