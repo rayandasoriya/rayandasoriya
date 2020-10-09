@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am <b>Rayan Dasoriya</b>, a Software Developer 💻 at IBM working on the technical infrastructure 🛠 part for the team. I am responsible for writing automation scripts, managing the production Kubernetes cluster, and enable a CI/CD pipeline. Python, Go and shell scripts are my go-to programming languages. Some of the software tools include Kubernetes, Docker, Travis, Ansible, Istio, and Openshift. I also completed [#100DaysOfCode challenge](https://github.com/rayandasoriya/100DaysOfCode).
+I am <b>Rayan Dasoriya</b>, a Software Developer 💻 at IBM working on the technical infrastructure 🛠 part for the team. I am responsible for writing automation scripts, managing the production Kubernetes/Openshift cluster, and enable a CI/CD pipeline. Python, Go and shell scripts are my go-to programming languages. Some of the software tools include Kubernetes, Docker, Travis, Ansible, Istio, and Openshift. I also completed [#100DaysOfCode challenge](https://github.com/rayandasoriya/100DaysOfCode).
 
 💬 Always eager to learn and adapt to new technology!
 
