@@ -4,7 +4,7 @@ I am <b>Rayan Dasoriya</b>, a Software Developer 💻 at Google working on some 
 
 💬 Always eager to learn and adapt to new technology!
 
-📫 Reach out to me on dasoriyarayan@gmail.com and view my portfolio [here](https://rayandasoriya.com).
+📫 Reach out to me on dasoriyarayan@gmail.com.
 
 😄 Pronouns: he/him
 
