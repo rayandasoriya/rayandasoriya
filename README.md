@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am <b>Rayan Dasoriya</b>, a Software Developer 💻 at Google working on some cool project in a Google Cloud Platform team. Python, Go and bash scripts are my go-to programming languages. I also completed [#100DaysOfCode challenge](https://github.com/rayandasoriya/100DaysOfCode).
+I am <b>Rayan Dasoriya</b>, a Software Developer 💻 at Google working on some cool project in a Google Cloud team. Python, Go and bash scripts are my go-to programming languages. I also completed [#100DaysOfCode challenge](https://github.com/rayandasoriya/100DaysOfCode).
 
 💬 Always eager to learn and adapt to new technology!
 
